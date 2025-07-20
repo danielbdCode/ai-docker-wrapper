@@ -1,4 +1,4 @@
-# AI Docker Wrapper
+# AI Docker Wrapper - Daniel Ben David
 
 Automate the process of containerizing and running scripts (Python, Bash, Node.js) using AI-generated Dockerfiles. This tool reads your script and its usage example, generates a best-practice Dockerfile via an LLM (like OpenAI GPT-4), builds the Docker image, and runs your script in a container—all in one step.
 
